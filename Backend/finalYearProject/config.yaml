@@ -1,0 +1,14 @@
+data: D:\finalYearProject\data
+train: images\train
+val: val\images\train
+
+names:
+  0: Speed limit (30km/h)
+  1: Stop
+  2: No entry
+  3: Bumpy road
+  4: Road work
+  5: Pedestrians
+  6: Turn right ahead
+  7: Turn left ahead
+  8: Ahead only
