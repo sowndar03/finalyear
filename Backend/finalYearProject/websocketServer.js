@@ -1,4 +1,4 @@
-const { WebSocketServer } = require("ws");
+  const { WebSocketServer } = require("ws");
 const mysql = require("mysql2");
 
 const db = mysql.createConnection({
